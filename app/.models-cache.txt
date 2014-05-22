@@ -1,0 +1,3 @@
+
+inscricao nome:string integer( rg cpf nascimento ) sexo:boolean email:string telefone:integer string( instituicao cep endereco numero complemento bairro cidade estado )
+palestra String( nome horario carga_horaria Palestrante data valor )
